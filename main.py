@@ -104,4 +104,3 @@ class FazlakaApp(App):
 
 if __name__ == '__main__':
     FazlakaApp().run()
-    
